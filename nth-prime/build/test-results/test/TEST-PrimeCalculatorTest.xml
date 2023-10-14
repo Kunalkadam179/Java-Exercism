@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-10-05T14:32:27" hostname="kunal179" time="0.487">
+  <properties/>
+  <testcase name="testUndefinedPrime" classname="PrimeCalculatorTest" time="0.27"/>
+  <testcase name="testSixthPrime" classname="PrimeCalculatorTest" time="0.103"/>
+  <testcase name="testFirstPrime" classname="PrimeCalculatorTest" time="0.042"/>
+  <testcase name="testSecondPrime" classname="PrimeCalculatorTest" time="0.034"/>
+  <testcase name="testBigPrime" classname="PrimeCalculatorTest" time="0.034"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
